@@ -1,7 +1,7 @@
 # LeetCode_Challenge
 Eating Leetcode problems for lunch, breakfast and dinner.
 
-Count Solved : 
+Count of Problems Solved : 
  
  Easy : 3
  
